@@ -40,16 +40,101 @@ Grading
 
 Most of the grade in this class comes from lab-based writeups or oral presentations of students' experiments. Details are provided below. Project topics will be handed out in the first three weeks of class.
 
-| Activity | percentage |
-| --- | --- |
-| 4 problem sets on R, statistics | 15% |
-| 16 discussion notes | 15% |
-| Paper 1: Evaluation of a related experimental topic in the literature (40% for draft 1; 60% for draft 2) | 10% |
-| Paper 2: Project proposal, plus bibliography for the project | 5% |
-| Oral presentation of proposed project | 5% |
-| Paper 3: Replication writeup | 10% |
-| Oral presentation of final project | 10% |
-| Paper 4: Final paper | 20% |
-| Class and lab participation (including obligatory attendance) | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activity
+{{< thclose >}}
+{{< thopen >}}
+percentage
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 problem sets on R, statistics
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16 discussion notes
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1: Evaluation of a related experimental topic in the literature (40% for draft 1; 60% for draft 2)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2: Project proposal, plus bibliography for the project
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation of proposed project
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3: Replication writeup
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation of final project
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 4: Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class and lab participation (including obligatory attendance)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Late policy: 10% off each day late, down to 50% off. Then you can hand it in later for 50% credit.

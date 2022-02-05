@@ -7,12 +7,57 @@ uid: 82a364e3-3673-96e7-f366-ede5ad09fbb3
 Problem Sets 
 -------------
 
-| assignment | supplemental materials |
-| --- | --- |
-| [Problem Set 1: Manipulating and Analyzing Data in R (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset1) | [Data for Problem Set 1: Manipulating and Analyzing Data in R (CSV)]({{< baseurl >}}/resources/pset_1_data) |
-| [Problem Set 2: Reading and Processing Turk Data (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset2) | [Data for Problem Set 2: Reading and Processing Turk Data (CSV)]({{< baseurl >}}/resources/pset2_data2) |
-| [Problem Set 3: Exploratory Data Analysis and Significance Testing (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset3) | No supplemental materials |
-| [Problem Set 4: Amazon Mechanical Turk (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset4) | [Data for Problem Set 4: Amazon Mechanical Turk (CSV)]({{< baseurl >}}/resources/pset4_particle_shift_data) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+assignment
+{{< thclose >}}
+{{< thopen >}}
+supplemental materials
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1: Manipulating and Analyzing Data in R (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Data for Problem Set 1: Manipulating and Analyzing Data in R (CSV)]({{< baseurl >}}/resources/pset_1_data)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2: Reading and Processing Turk Data (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Data for Problem Set 2: Reading and Processing Turk Data (CSV)]({{< baseurl >}}/resources/pset2_data2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3: Exploratory Data Analysis and Significance Testing (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset3)
+{{< tdclose >}}
+{{< tdopen >}}
+No supplemental materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4: Amazon Mechanical Turk (PDF)]({{< baseurl >}}/resources/mit9_59s17_pset4)
+{{< tdclose >}}
+{{< tdopen >}}
+[Data for Problem Set 4: Amazon Mechanical Turk (CSV)]({{< baseurl >}}/resources/pset4_particle_shift_data)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Project
 -------
