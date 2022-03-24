@@ -6,7 +6,7 @@ uid: e2c4f95b-63eb-883f-3d86-c18db72bdfe3
 
 Required:
 
-Baayen, R. Harald. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Analyzing linguistic data: A practical introduction to statistics using R_ (PDF - 5.1MB)](http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf). Cambridge University Press, 2008. ISBN: 9780521709187
+Baayen, R. Harald. [_Analyzing linguistic data: A practical introduction to statistics using R_ (PDF - 5.1MB)](http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf). Cambridge University Press, 2008. ISBN: 9780521709187
 
 Wickham, Hadley, and Garrett Grolemund. [_R for data science_](http://r4ds.had.co.nz/). O'Reilly Media, 2016. ISBN: 9781491910399
 
@@ -43,7 +43,7 @@ Required:
 
 Mahowald, Kyle, Peter Graff, Jeremy Hartman, and Edward Gibson. "[SNAP Judgments: A Small N Acceptability Paradigm (SNAP) for Linguistic Acceptability Judgments](https://muse.jhu.edu/article/629764/summary)." _Language_ 92, no. 3 (2016): 619-635.
 
-Linzen, Tal, and Yohei Oseki. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Reliability of Acceptability Judgments Across Languages (PDF)](http://tallinzen.net/media/papers/linzen_oseki_acceptability.pdf)." _New York: New York University, ms_ (2015).
+Linzen, Tal, and Yohei Oseki. "[The Reliability of Acceptability Judgments Across Languages (PDF)](http://tallinzen.net/media/papers/linzen_oseki_acceptability.pdf)." _New York: New York University, ms_ (2015).
 
 Recommended:
 
@@ -51,7 +51,7 @@ Gibson, Edward, Steven T. Piantadosi, and Evelina Fedorenko. "[Quantitative Meth
 
 Sprouse, Jon, and Diogo Almeida. "[The Empirical Status of Data in Syntax: A Reply to Gibson and Fedorenko](http://www.tandfonline.com/doi/full/10.1080/01690965.2012.703782)." _Language and Cognitive Processes_ 28, no. 3 (2013): 222-228.
 
-Gibson, Edward, and Evelina Fedorenko. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Weak Quantitative Standards in Linguistics Research (PDF)](http://tedlab.mit.edu/tedlab_website/researchpapers/Gibson_&_Fedorenko_2010_TiCS.pdf)." _Trends in Cognitive Sciences_ 14, no. 6 (2010): 233-234.
+Gibson, Edward, and Evelina Fedorenko. "[Weak Quantitative Standards in Linguistics Research (PDF)](http://tedlab.mit.edu/tedlab_website/researchpapers/Gibson_&_Fedorenko_2010_TiCS.pdf)." _Trends in Cognitive Sciences_ 14, no. 6 (2010): 233-234.
 
 
 {{< tdclose >}}
@@ -80,7 +80,7 @@ Trueswell, J., and M. Tanenhaus. "Toward a Lexical Framework of Constraint-Based
 
 Shannon, Claude E. "[Prediction and Entropy of Printed English](http://onlinelibrary.wiley.com/doi/10.1002/j.1538-7305.1951.tb01366.x/full)." _Bell Labs Technical Journal_ 30, no. 1 (1951): 50-64.
 
-Schneider, Thomas D. "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Information Theory Primer (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.147.2463&rep=rep1&type=pdf)." (1995): 370-379.
+Schneider, Thomas D. "[Information Theory Primer (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.147.2463&rep=rep1&type=pdf)." (1995): 370-379.
 
 
 {{< tdclose >}}
@@ -103,7 +103,7 @@ Bergen, Leon, Roger Levy, and Edward Gibson. "Verb Omission Errors: Evidence of 
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/image-language-brain)  "The Dependency Locality theory: A distance-based theory of linguistic complexity." in Gibson, Edward, Alec Marantz, Yasushi Miyashita, and Wayne O'Neil. _Image, Language, Brain_. (2000). ISBN: 9780262133715
 
-Poppels, Till, and Roger Levy. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Structure-Sensitive Noise iIference: Comprehenders Expect Exchange Errors (PDF)](https://mindmodeling.org/cogsci2016/papers/0077/paper0077.pdf)." _Proceedings of the 38th Annual Meeting of the Cognitive Science Society_, pp. 378-383. 2016.
+Poppels, Till, and Roger Levy. "[Structure-Sensitive Noise iIference: Comprehenders Expect Exchange Errors (PDF)](https://mindmodeling.org/cogsci2016/papers/0077/paper0077.pdf)." _Proceedings of the 38th Annual Meeting of the Cognitive Science Society_, pp. 378-383. 2016.
 
 Recommended:
 
@@ -124,7 +124,7 @@ Required:
 
 Gibson, Edward, and James Thomas. "[Memory Limitations and Structural Forgetting: The Perception of Complex Ungrammatical Sentences as Grammatical](http://www.tandfonline.com/doi/abs/10.1080/016909699386293)." _Language and Cognitive Processes_ 14, no. 3 (1999): 225-248.
 
-Futrell, Richard, and Roger Levy. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Noisy-Context Surprisal as a Human Sentence Processing Cost Model (PDF)](https://pdfs.semanticscholar.org/9ce4/c4ab20328738429fe4f01e7f082684046ee2.pdf)." _Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics_, pp. 688-698. 2017.
+Futrell, Richard, and Roger Levy. "[Noisy-Context Surprisal as a Human Sentence Processing Cost Model (PDF)](https://pdfs.semanticscholar.org/9ce4/c4ab20328738429fe4f01e7f082684046ee2.pdf)." _Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics_, pp. 688-698. 2017.
 
 Ambridge, Ben, and Adele E. Goldberg. "[The Island Status of Clausal Complements: Evidence in Favor of an Information Structure Explanation](https://www.degruyter.com/view/j/cogl.2008.19.issue-3/cogl.2008.014/cogl.2008.014.xml)." _Cognitive Linguistics_ 19, no. 3 (2008): 357-389.
 
@@ -143,7 +143,7 @@ Sprouse, Jon, Matt Wagers, and Colin Phillips. "[A Test of the Relation Between 
 
 Required:
 
-Keysar, Boaz, Dale J. Barr, Jennifer A. Balin, and Jason S. Brauner. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Taking Perspective in Conversation: The Role of Mutual Knowledge in Comprehension (PDF)](http://journals.sagepub.com/doi/pdf/10.1111/1467-9280.00211)." _Psychological Science_ 11, no. 1 (2000): 32-38.
+Keysar, Boaz, Dale J. Barr, Jennifer A. Balin, and Jason S. Brauner. "[Taking Perspective in Conversation: The Role of Mutual Knowledge in Comprehension (PDF)](http://journals.sagepub.com/doi/pdf/10.1111/1467-9280.00211)." _Psychological Science_ 11, no. 1 (2000): 32-38.
 
 Sedivy, Julie C., Michael K. Tanenhaus, Craig G. Chambers, and Gregory N. Carlson. "[Achieving Incremental Semantic Interpretation Through Contextual Representation](http://www.sciencedirect.com/science/article/pii/S0010027799000256)." _Cognition_ 71, no. 2 (1999): 109-147.
 
@@ -197,7 +197,7 @@ Scheepers, Christoph, Patrick Sturt, Catherine J. Martin, Andriy Myachykov, Kay 
 
 Mahowald, Kyle, Ariel James, Richard Futrell, and Edward Gibson. "[A Meta-Analysis of Syntactic Priming in Language Production](http://www.sciencedirect.com/science/article/pii/S0749596X16300043)." _Journal of Memory and Language_ 91 (2016): 5-27.
 
-Troyer, Melissa, Timothy J. O'Donnell, Evelina Fedorenko, and Edward Gibson. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Storage and Computation in Syntax: Evidence from Relative Clause Priming (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.208.967&rep=rep1&type=pdf)." _Cognitive Science_. 2011.
+Troyer, Melissa, Timothy J. O'Donnell, Evelina Fedorenko, and Edward Gibson. "[Storage and Computation in Syntax: Evidence from Relative Clause Priming (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.208.967&rep=rep1&type=pdf)." _Cognitive Science_. 2011.
 
 Fine, Alex B., T. Florian Jaeger, Thomas A. Farmer, and Ting Qian. "[Rapid Expectation Adaptation During Syntactic Comprehension](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077661)." _PloS One_ 8, no. 10 (2013): e77661.
 
